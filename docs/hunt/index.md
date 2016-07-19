@@ -1,6 +1,6 @@
 ### Purpose
 
-"Hunt" or "Blue" topics include all things related to defense against the dark, at least within the cyber discipline.  
+"Hunt" or "Blue" topics include all things related to defense against the dark arts, at least within the cyber discipline.  
 
 ### Links
 
