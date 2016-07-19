@@ -9,7 +9,7 @@ Created using [MkDocs](http://www.mkdocs.org/) and the [Material Theme](http://s
 ## How To Contribute
 
 ### 1.) Pull Requests  
-Fork this repo, edit the markdown for page of your choosing, and send us a pull request.
+Fork this repo, edit the markdown for the page(s) of your choosing, and send us a pull request.
 
 ### 2.) Issues
 File an issue with your change or addition and someone will get it added.
@@ -17,6 +17,7 @@ File an issue with your change or addition and someone will get it added.
 ### 3.) Anonymous Submission
 If you have something you'd like added but don't want attributed to you, contact one of the maintainers and we'll slide it in without your name attached.
 
+**NOTE:** New requests will be handled in that order.  Working PR's will always get posted long before manual changes.
 
 ## "Development"
 
