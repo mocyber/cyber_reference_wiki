@@ -1,0 +1,26 @@
+site_name: Cyber Reference Wiki
+theme: material
+extra:
+  palette:
+    primary: 'blue grey'
+    accent: 'grey'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: '#'
+  - codehilite(css_class=code)
+
+pages:
+- Home: index.md
+- Hunt: hunt/index.md
+- Tools: tools/index.md
+- Intel: intel/index.md
+- How To: howto/index.md
+- References: references/index.md
+- Exercises: exercises/index.md
+- Red Team: red/index.md
+- Style Guide: style_guide/index.md
+
