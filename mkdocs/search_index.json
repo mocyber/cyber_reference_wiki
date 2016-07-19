@@ -1,0 +1,179 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to the Cyber Reference Wiki\n#\n\n\nSections\n#\n\n\nHunt\n - Blue/Hunt-related sites\n\n\nTools\n - Tools of the trade\n\n\nIntel\n - All things Intel\n\n\nHow To\n - In-depth walkthroughs and tutorials\n\n\nReferences\n - Generic IT references to learn the basics\n\n\nExercises\n - Exercises and challenges to hone your craft\n\n\nRed Team\n - Evil shenanigans", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-the-cyber-reference-wiki", 
+            "text": "", 
+            "title": "Welcome to the Cyber Reference Wiki"
+        }, 
+        {
+            "location": "/#sections", 
+            "text": "Hunt  - Blue/Hunt-related sites  Tools  - Tools of the trade  Intel  - All things Intel  How To  - In-depth walkthroughs and tutorials  References  - Generic IT references to learn the basics  Exercises  - Exercises and challenges to hone your craft  Red Team  - Evil shenanigans", 
+            "title": "Sections"
+        }, 
+        {
+            "location": "/hunt/", 
+            "text": "Purpose\n#\n\n\n\"Hunt\" or \"Blue\" topics include all things related to defense against the dark, at least within the cyber discipline.  \n\n\nLinks\n#\n\n\nROCK NSM Project\n\n\nSynopsis:\n The MOCYBER open source NSM sensor.\n\n\nArticles\n#\n\n\nNOTE:\n Original articles and content published on this site will be linked here, if and when someone writes something for us.", 
+            "title": "Hunt"
+        }, 
+        {
+            "location": "/hunt/#purpose", 
+            "text": "\"Hunt\" or \"Blue\" topics include all things related to defense against the dark, at least within the cyber discipline.", 
+            "title": "Purpose"
+        }, 
+        {
+            "location": "/hunt/#links", 
+            "text": "ROCK NSM Project  Synopsis:  The MOCYBER open source NSM sensor.", 
+            "title": "Links"
+        }, 
+        {
+            "location": "/hunt/#articles", 
+            "text": "NOTE:  Original articles and content published on this site will be linked here, if and when someone writes something for us.", 
+            "title": "Articles"
+        }, 
+        {
+            "location": "/tools/", 
+            "text": "Purpose\n#\n\n\nThe \"Tools\" topic is another semi-catch-all area, for links and info specifically related to individual tools.\n\n\nLinks\n#\n\n\nKeybase\n\n\nSynopsis:\n Socially validated encryption keys with an easy to use command-line interface, and more.\n\n\nArticles\n#\n\n\nNOTE:\n Original articles and content published on this site will be linked here, if and when someone writes something for us.", 
+            "title": "Tools"
+        }, 
+        {
+            "location": "/tools/#purpose", 
+            "text": "The \"Tools\" topic is another semi-catch-all area, for links and info specifically related to individual tools.", 
+            "title": "Purpose"
+        }, 
+        {
+            "location": "/tools/#links", 
+            "text": "Keybase  Synopsis:  Socially validated encryption keys with an easy to use command-line interface, and more.", 
+            "title": "Links"
+        }, 
+        {
+            "location": "/tools/#articles", 
+            "text": "NOTE:  Original articles and content published on this site will be linked here, if and when someone writes something for us.", 
+            "title": "Articles"
+        }, 
+        {
+            "location": "/intel/", 
+            "text": "Purpose\n#\n\n\n\"Intel\" items should be centered around the art and science of applying intelligence techniques to the cyber landscape.  Cyber threat intelligence. There, I said it.\n\n\nLinks\n#\n\n\nOpen Source Intelligence Techniques\n\n\nSynopsis:\n One of the best OSINT resources on the internet.  Tons of useful links and tools.\n\n\nArticles\n#\n\n\nNOTE:\n Original articles and content published on this site will be linked here, if and when someone writes something for us.", 
+            "title": "Intel"
+        }, 
+        {
+            "location": "/intel/#purpose", 
+            "text": "\"Intel\" items should be centered around the art and science of applying intelligence techniques to the cyber landscape.  Cyber threat intelligence. There, I said it.", 
+            "title": "Purpose"
+        }, 
+        {
+            "location": "/intel/#links", 
+            "text": "Open Source Intelligence Techniques  Synopsis:  One of the best OSINT resources on the internet.  Tons of useful links and tools.", 
+            "title": "Links"
+        }, 
+        {
+            "location": "/intel/#articles", 
+            "text": "NOTE:  Original articles and content published on this site will be linked here, if and when someone writes something for us.", 
+            "title": "Articles"
+        }, 
+        {
+            "location": "/howto/", 
+            "text": "Purpose\n#\n\n\n\"How To\" articles should highlight a process from end to end.  These should be thoroughly fleshed out, not just break/fix or Stack Overflow links.\n\n\nLinks\n#\n\n\nSecuring Nginx with Let's Encrypt on CentOS 7\n\n\nSynopsis:\n A full walkthrough of setting up TLS on CentOS 7 using nginx and Let's Encrypt.\n\n\nArticles\n#\n\n\nNOTE:\n Original articles and content published on this site will be linked here, if and when someone writes something for us.", 
+            "title": "How To"
+        }, 
+        {
+            "location": "/howto/#purpose", 
+            "text": "\"How To\" articles should highlight a process from end to end.  These should be thoroughly fleshed out, not just break/fix or Stack Overflow links.", 
+            "title": "Purpose"
+        }, 
+        {
+            "location": "/howto/#links", 
+            "text": "Securing Nginx with Let's Encrypt on CentOS 7  Synopsis:  A full walkthrough of setting up TLS on CentOS 7 using nginx and Let's Encrypt.", 
+            "title": "Links"
+        }, 
+        {
+            "location": "/howto/#articles", 
+            "text": "NOTE:  Original articles and content published on this site will be linked here, if and when someone writes something for us.", 
+            "title": "Articles"
+        }, 
+        {
+            "location": "/references/", 
+            "text": "Purpose\n#\n\n\n\"References\" is primarily for more generic IT-related topics, but is also the catch-all for things that don't fit in another bucket.\n\n\nLinks\n#\n\n\nThe Children's Illustrated Guide to Kubernetes\n\n\nSynopsis:\n A tongue-in-cheek guide to Kubernetes, told in the style of a childrens book.\n\n\nArticles\n#\n\n\nNOTE:\n Original articles and content published on this site will be linked here, if and when someone writes something for us.", 
+            "title": "References"
+        }, 
+        {
+            "location": "/references/#purpose", 
+            "text": "\"References\" is primarily for more generic IT-related topics, but is also the catch-all for things that don't fit in another bucket.", 
+            "title": "Purpose"
+        }, 
+        {
+            "location": "/references/#links", 
+            "text": "The Children's Illustrated Guide to Kubernetes  Synopsis:  A tongue-in-cheek guide to Kubernetes, told in the style of a childrens book.", 
+            "title": "Links"
+        }, 
+        {
+            "location": "/references/#articles", 
+            "text": "NOTE:  Original articles and content published on this site will be linked here, if and when someone writes something for us.", 
+            "title": "Articles"
+        }, 
+        {
+            "location": "/exercises/", 
+            "text": "Purpose\n#\n\n\n\"Exercises\" can pertain to anything that provides a guided, or pre-built scenario that you can use to practice cyber-related skills.\n\n\nLinks\n#\n\n\nMalware Traffic Analysis\n\n\nSynopsis:\n Frequently posts PCAPs and mini-exercises centered around network traffic analysis.\n\n\nArticles\n#\n\n\nNOTE:\n Original articles and content published on this site will be linked here, if and when someone writes something for us.", 
+            "title": "Exercises"
+        }, 
+        {
+            "location": "/exercises/#purpose", 
+            "text": "\"Exercises\" can pertain to anything that provides a guided, or pre-built scenario that you can use to practice cyber-related skills.", 
+            "title": "Purpose"
+        }, 
+        {
+            "location": "/exercises/#links", 
+            "text": "Malware Traffic Analysis  Synopsis:  Frequently posts PCAPs and mini-exercises centered around network traffic analysis.", 
+            "title": "Links"
+        }, 
+        {
+            "location": "/exercises/#articles", 
+            "text": "NOTE:  Original articles and content published on this site will be linked here, if and when someone writes something for us.", 
+            "title": "Articles"
+        }, 
+        {
+            "location": "/red/", 
+            "text": "Purpose\n#\n\n\n\"Red Team\" resources is the landing place for all things of a more offensive nature.  Offense informs defense, and vice versa.\n\n\nLinks\n#\n\n\nCyber Punk Tool List\n\n\nSynopsis:\n Great resource for discovering new tools, primarily offensive, but there's some defense mixed in there too.\n\n\nArticles\n#\n\n\nNOTE:\n Original articles and content published on this site will be linked here, if and when someone writes something for us.", 
+            "title": "Red Team"
+        }, 
+        {
+            "location": "/red/#purpose", 
+            "text": "\"Red Team\" resources is the landing place for all things of a more offensive nature.  Offense informs defense, and vice versa.", 
+            "title": "Purpose"
+        }, 
+        {
+            "location": "/red/#links", 
+            "text": "Cyber Punk Tool List  Synopsis:  Great resource for discovering new tools, primarily offensive, but there's some defense mixed in there too.", 
+            "title": "Links"
+        }, 
+        {
+            "location": "/red/#articles", 
+            "text": "NOTE:  Original articles and content published on this site will be linked here, if and when someone writes something for us.", 
+            "title": "Articles"
+        }, 
+        {
+            "location": "/style_guide/", 
+            "text": "Cyber Reference Wiki Style Guide\n#\n\n\nThis is where a styleguide should go.  In the meantime, it's markdown examples.\n\n\nNotes and Warnings\n#\n\n\nNOTE:\n Notes and Warnings are for key information or critical \"you'll shoot your eye out\" warnings. Use them sparingly.\n\n\nThis code:   \n\n\n!!! note\n    This is a note\n\n!!! warning\n    This is a warning\n\n\n\n\n\nCreates:\n\n\n\n\nNote\n\n\nThis is a note\n\n\n\n\n\n\nWarning\n\n\nThis is a warning\n\n\n\n\nCode Blocks\n#\n\n\nThis code:\n\n\n \n``\n`\n\n\n#!/usr/bin/env python\n\n\n\nimport\n \nbacon\n\n\n\nprint\n \nMmmmm. Bacon.\n\n \n``\n`\n\n\n\n\n\n\nCreates:\n\n\n1\n2\n3\n4\n5\n#!/usr/bin/env python\n\n\n\nimport\n \nbacon\n\n\n\nprint\n \nMmmmm. Bacon.", 
+            "title": "Style Guide"
+        }, 
+        {
+            "location": "/style_guide/#cyber-reference-wiki-style-guide", 
+            "text": "This is where a styleguide should go.  In the meantime, it's markdown examples.", 
+            "title": "Cyber Reference Wiki Style Guide"
+        }, 
+        {
+            "location": "/style_guide/#notes-and-warnings", 
+            "text": "NOTE:  Notes and Warnings are for key information or critical \"you'll shoot your eye out\" warnings. Use them sparingly.  This code:     !!! note\n    This is a note\n\n!!! warning\n    This is a warning  Creates:   Note  This is a note    Warning  This is a warning", 
+            "title": "Notes and Warnings"
+        }, 
+        {
+            "location": "/style_guide/#code-blocks", 
+            "text": "This code:    `` `  #!/usr/bin/env python  import   bacon  print   Mmmmm. Bacon. \n  `` `   Creates:  1\n2\n3\n4\n5 #!/usr/bin/env python  import   bacon  print   Mmmmm. Bacon.", 
+            "title": "Code Blocks"
+        }
+    ]
+}
