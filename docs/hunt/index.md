@@ -7,8 +7,13 @@
 [ROCK NSM Project](http://rocknsm.io)  
 **Synopsis:** The MOCYBER open source NSM sensor.
 
-[ThreatHunting](https://github.com/DavidJBianco/ThreatHunting/tree/master/hunts)
+[DavidJBianco/ThreatHunting](https://github.com/DavidJBianco/ThreatHunting/tree/master/hunts)
 **Synopsis:** Repo containing synopsis of several hunting techniques
+
+[Intro to DFIR, by @sroberts](https://sroberts.github.io/2016/01/11/introduction-to-dfir-the-beginning/)
+**Synopsis:** Overview of topics related to DFIR. Each topic has links to
+videos, references, tools and key experts to follow.
+
 
 ### Articles
 
