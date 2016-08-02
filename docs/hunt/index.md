@@ -7,6 +7,9 @@
 [ROCK NSM Project](http://rocknsm.io)  
 **Synopsis:** The MOCYBER open source NSM sensor.
 
+[ThreatHunting](https://github.com/DavidJBianco/ThreatHunting/tree/master/hunts)
+**Synopsis:** Repo containing synopsis of several hunting techniques
+
 ### Articles
 
 **NOTE:** Original articles and content published on this site will be linked here, if and when someone writes something for us.
