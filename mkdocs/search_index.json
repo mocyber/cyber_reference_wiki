@@ -17,7 +17,7 @@
         }, 
         {
             "location": "/hunt/", 
-            "text": "Purpose\n#\n\n\n\"Hunt\" or \"Blue\" topics include all things related to defense against the dark arts, at least within the cyber discipline.  \n\n\nLinks\n#\n\n\nROCK NSM Project\n\n\nSynopsis:\n The MOCYBER open source NSM sensor.\n\n\nArticles\n#\n\n\nNOTE:\n Original articles and content published on this site will be linked here, if and when someone writes something for us.", 
+            "text": "Purpose\n#\n\n\n\"Hunt\" or \"Blue\" topics include all things related to defense against the dark arts, at least within the cyber discipline.  \n\n\nLinks\n#\n\n\nROCK NSM Project\n\n\nSynopsis:\n The MOCYBER open source NSM sensor.\n\n\nDavidJBianco/ThreatHunting\n\n\nSynopsis:\n Repo containing synopsis of several hunting techniques\n\n\nIntro to DFIR, by @sroberts\n\n\nSynopsis:\n Overview of topics related to DFIR. Each topic has links to\nvideos, references, tools and key experts to follow.\n\n\nArticles\n#\n\n\nNOTE:\n Original articles and content published on this site will be linked here, if and when someone writes something for us.", 
             "title": "Hunt"
         }, 
         {
@@ -27,7 +27,7 @@
         }, 
         {
             "location": "/hunt/#links", 
-            "text": "ROCK NSM Project  Synopsis:  The MOCYBER open source NSM sensor.", 
+            "text": "ROCK NSM Project  Synopsis:  The MOCYBER open source NSM sensor.  DavidJBianco/ThreatHunting  Synopsis:  Repo containing synopsis of several hunting techniques  Intro to DFIR, by @sroberts  Synopsis:  Overview of topics related to DFIR. Each topic has links to\nvideos, references, tools and key experts to follow.", 
             "title": "Links"
         }, 
         {
@@ -97,7 +97,7 @@
         }, 
         {
             "location": "/references/", 
-            "text": "Purpose\n#\n\n\n\"References\" is primarily for more generic IT-related topics, but is also the catch-all for things that don't fit in another bucket.\n\n\nLinks\n#\n\n\nThe Children's Illustrated Guide to Kubernetes\n\n\nSynopsis:\n A tongue-in-cheek guide to Kubernetes, told in the style of a childrens book.\n\n\nArticles\n#\n\n\nNOTE:\n Original articles and content published on this site will be linked here, if and when someone writes something for us.", 
+            "text": "Purpose\n#\n\n\n\"References\" is primarily for more generic IT-related topics, but is also the catch-all for things that don't fit in another bucket.\n\n\nLinks\n#\n\n\nmeirwah/awesome-incident-response\n\n\nSynopsis:\n A curated list of tools for incident response \n\n\nThe Children's Illustrated Guide to Kubernetes\n\n\nSynopsis:\n A tongue-in-cheek guide to Kubernetes, told in the style of a childrens book.\n\n\nArticles\n#\n\n\nNOTE:\n Original articles and content published on this site will be linked here, if and when someone writes something for us.", 
             "title": "References"
         }, 
         {
@@ -107,7 +107,7 @@
         }, 
         {
             "location": "/references/#links", 
-            "text": "The Children's Illustrated Guide to Kubernetes  Synopsis:  A tongue-in-cheek guide to Kubernetes, told in the style of a childrens book.", 
+            "text": "meirwah/awesome-incident-response  Synopsis:  A curated list of tools for incident response   The Children's Illustrated Guide to Kubernetes  Synopsis:  A tongue-in-cheek guide to Kubernetes, told in the style of a childrens book.", 
             "title": "Links"
         }, 
         {
